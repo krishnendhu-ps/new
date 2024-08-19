@@ -1,0 +1,16 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+}
+li {
+    max-width: 200px;
+    background-color: green;
+}
+span{
+    background-color:rgb(201, 201, 133)
+}
+h1{
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
